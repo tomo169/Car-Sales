@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095133440699",
+    "project_id": "pma-project-5d66e",
+    "storage_bucket": "pma-project-5d66e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095133440699:android:e252ab2bae825d71c9d79e",
+        "android_client_info": {
+          "package_name": "com.example.test_pma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-2kjn9H5XXGElkUXUQRqba_rSD8WVGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
